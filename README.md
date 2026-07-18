@@ -6,8 +6,6 @@ UI, Raspberry Pi/tablet customer display, and future mobile/desktop apps all
 talk to the same REST + WebSocket API. **No client ever touches the database
 directly.**
 
-- 📖 Full endpoint-by-endpoint examples: **[API_REFERENCE.md](./API_REFERENCE.md)**
-- 🎨 Ready-to-paste frontend build prompt (for Lovable): **[LOVABLE_PROMPT.md](./LOVABLE_PROMPT.md)**
 - 🧪 Interactive Swagger UI: `http://localhost:5000/docs` (once running)
 
 ---
